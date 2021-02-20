@@ -4,5 +4,5 @@ An attempt to to learn and recognize one of the difficult expressions known to m
 ## Phase 0:
 A simple text-classification with Tensorflow Keras API
 
-## Phase :
+## Phase 1:
 Preprocessing using NLTK
