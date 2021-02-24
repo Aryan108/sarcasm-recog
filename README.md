@@ -14,3 +14,6 @@ Preprocessing using NLTK
 ## Phase 2:
 - Add more layers to the model
 - Apply regularizations
+
+## Phase 3:
+Make it into a python app
