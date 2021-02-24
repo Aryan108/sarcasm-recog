@@ -6,3 +6,11 @@ A simple text-classification with Tensorflow Keras API
 
 ## Phase 1:
 Preprocessing using NLTK
+- Tokenizing
+- Removing stopwords
+- Finding Frequency Distribution of words
+- Bigrams, Trigrams
+
+## Phase 2:
+- Add more layers to the model
+- Apply regularizations
