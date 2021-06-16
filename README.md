@@ -16,4 +16,4 @@ Preprocessing using NLTK
 - Apply regularizations
 
 ## Phase 3:
-Make it into a python app
+Make it into a python app using streamlit API
